@@ -1,0 +1,5 @@
+{
+  "name": "簡單旅",
+  "description": "基於 Google Gemini 模型與大數據分析的智能旅遊規劃助手，提供專業排版與地圖資訊整合。",
+  "requestFramePermissions": []
+}
